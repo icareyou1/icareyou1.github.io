@@ -1,4 +1,4 @@
-# Hexo-theme-diaspora
+# Hexo-theme-icareyou1.github.io
 
 
 **[在线预览 | PREVIEW ](http://fech.in)**
